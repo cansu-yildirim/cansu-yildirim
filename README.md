@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@cansuyildirim)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/cansuyildir)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur) ![](https://komarev.com/ghpvc/?username=your-github-cansuyildiriim&color=e6e2e3&style=flat&abbreviated=true)
+### Glad to see you here! &nbsp;  ![](https://komarev.com/ghpvc/?username=your-github-cansuyildiriim&color=e6e2e3&style=flat&abbreviated=true)
 
 I am a software engineer and writer. I love programming, writing, speaking and traveling.
 
